@@ -1,0 +1,10 @@
+0	0.5	date organization message-id lines newsgroups path subject gmt nntp-posting-host sender cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs university references writes cantaloupe.srv.cs.cmu.edu tue distribution xref usa misc.forsale 
+1	0.5	window widget subject motif set application display comp.windows.x code resource color server work manager program xlib widgets version open sun 
+2	0.5	people time god don't newsgroups sender things message-id path subject athos.rutgers.edu lines date jesus approved gmt writes organization cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs good 
+3	0.5	encryption key privacy government public security technology law internet chip system anonymous computer ripem sci.crypt information clipper access keys anonymity 
+4	0.5	space nasa orbit shuttle convention center mission mars political earth institute lunar planetary national satellite launch probe research missions science 
+5	0.5	lines newsgroups message-id car subject gmt references date organization writes path article rec.autos university cars nntp-posting-host power time drive article-i.d 
+6	0.5	gun control references talk.politics.guns guns don't date organization rate people state subject crime news police article writes weapons message-id make 
+7	0.5	path newsgroups date lines message-id organization subject gmt sender gordon references banks writes article sci.med year rec.sport.baseball reply-to good don't 
+8	0.5	file entry program output rules mov oname section entries char build info contest line number source year stream files write 
+9	0.5	information list email system server software version ftp anonymous mail file faq source send systems directory data user unix files 
